@@ -1,0 +1,23 @@
+{
+  "name": "tdd-lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeDevine/TDD-lab1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeDevine/TDD-lab1/issues"
+  },
+  "homepage": "https://github.com/jeDevine/TDD-lab1#readme",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
